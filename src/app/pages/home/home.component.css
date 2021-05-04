@@ -1,0 +1,16 @@
+.card-columns {   
+    column-count: 4;
+}
+
+.card-body {
+  height: 250px;
+}
+
+/* .card-body .card-bottom{
+  height: 50px;
+} */
+
+
+
+
+
